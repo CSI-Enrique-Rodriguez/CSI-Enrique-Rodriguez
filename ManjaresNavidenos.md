@@ -1,6 +1,12 @@
 <div aling="center">
   
-;img src="."
+<img src=https://www.cocinadominicana.com/wp-content/uploads/2015/01/asopao-pollo-5.jpg" />
+                                                                                        
+- 4 tazas de agua 
+- 3/4 tazas de arroz blanco 
+- 4 piezas de pollo 
+- 2 chucaradas de aceite de canola 
+- 4 tazas de caldo de pollo 
 - 1 taza de salsa de tomate 
 - 2 cucharadas de comino y oregano molido 
 - 1/4 taza de sofrito  
@@ -23,5 +29,10 @@
   12. puede aplicarle un poco de cilatro picado y acompanar con tostones de platano 
   13. BUEN PROVECHO!!!
   
-  ### video:
-  
+  ### video: 
+  - https://youtu.be/-hQzHDHPX_U  
+                                                                                        
+  <br>
+                                                                                        
+#### Referencias: 
+https://comidaboricua.info/sopas/asopao-de-pollo/                                                                                        
