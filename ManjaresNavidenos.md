@@ -1,7 +1,11 @@
 <div aling="center">
   
-<img src="https://www.cocinadominicana.com/wp-content/uploads/2015/01/asopao-pollo-5.jpeg" width "520" height="374" />
-                                                                                        
+<img src="https://www.cocinadominicana.com/wp-content/uploads/2015/01/asopao-pollo-5.jpg" width "520" height="374" />
+    
+  # Manjares Navidenos 
+  ## Asopao de Pollo 
+  </div>
+  ### Ingredientes:
 - 4 tazas de agua 
 - 3/4 tazas de arroz blanco 
 - 4 piezas de pollo 
