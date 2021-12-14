@@ -1,6 +1,6 @@
 <div aling="center">
   
-<img src=https://www.cocinadominicana.com/wp-content/uploads/2015/01/asopao-pollo-5.jpg" width "520" height="374" />
+<img src="https://www.cocinadominicana.com/wp-content/uploads/2015/01/asopao-pollo-5.jpg" width "520" height="374" />
                                                                                         
 - 4 tazas de agua 
 - 3/4 tazas de arroz blanco 
